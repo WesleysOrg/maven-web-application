@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
+<h1 align="center">Welcome everyone to Landmark Technologies.</h1>
 <h2 align="center"> We are supporting the Tesla Project.
 	Landmark Technologies is a software development company. 
 	Class32 will run from April, 2023 to August, 2023.
